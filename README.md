@@ -21,7 +21,7 @@ Make sure you have these tools installed locally:
 
 ### Getting started
 
-* [Make a copy of this repository](./generate)
+* [Make a copy of this repository](https://github.com/liambuchanan/fargate-continuous-deployment-starter/generate)
 * [Create a github personal access token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token)
 * `aws configure` to ensure your default profile can be used to deploy the pipeline to the appropriate AWS account and region
 * [`./bootstrap.sh`](./bootstrap.sh) to create a pipeline in your AWS account
